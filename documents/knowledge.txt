@@ -1,0 +1,15 @@
+Python is a popular programming language used in software development and data science.
+
+Machine learning is a subset of artificial intelligence that helps systems learn from data.
+
+Natural language processing helps computers understand and process human language.
+
+Deep learning uses neural networks with multiple layers.
+
+Data science combines statistics, programming, and domain knowledge to analyze data.
+
+Computer vision enables machines to understand images and videos.
+
+Artificial intelligence is transforming healthcare, finance, and automation.
+
+Python libraries like NumPy and Pandas are commonly used for data analysis.
